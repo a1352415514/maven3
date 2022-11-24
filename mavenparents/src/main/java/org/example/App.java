@@ -12,5 +12,7 @@ public class App
         System.out.println("good");
         System.out.println("nice");
         System.out.println("5");
+        System.out.println("4");
+
     }
 }
